@@ -1,7 +1,7 @@
 -[x] Seup do banco
 -[x] Seeding do banco (colocar dados)
--[] Introdução ao Next.js
--[] Tailwind e shadcn
+-[x] Introdução ao Next.js
+-[x] Tailwind e shadcn
 -[] Git hooks
 
 
